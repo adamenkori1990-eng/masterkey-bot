@@ -1,0 +1,12 @@
+{
+  "name": "masterkey-locksmith-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for MasterKey Locksmith Service",
+  "main": "masterkey_bot.js",
+  "scripts": {
+    "start": "node masterkey_bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
